@@ -53,5 +53,3 @@ def get_product_details(url):
     return details
 
 
-
-print(get_product_details("https://www.amazon.in/Redmi-Note-Pro-Interstellar-Snapdragon/dp/B077PWBC78/ref=sxin_10?ascsubtag=amzn1.osa.459ba3bc-4058-48db-afc0-830536d942b4.A21TJRUUN4KGV.en_IN&creativeASIN=B077PWBC78&cv_ct_cx=phone&cv_ct_id=amzn1.osa.459ba3bc-4058-48db-afc0-830536d942b4.A21TJRUUN4KGV.en_IN&cv_ct_pg=search&cv_ct_we=asin&cv_ct_wn=osp-single-source-gl-ranking&dchild=1&keywords=phone&linkCode=oas&pd_rd_i=B077PWBC78&pd_rd_r=ca6096fe-444c-4a1f-90e3-be8e34122092&pd_rd_w=ZFIce&pd_rd_wg=8Z14t&pf_rd_p=e0ec3157-32a0-4197-a7f6-49f9023b486e&pf_rd_r=KAKZ18ZS2H5JMKN3255J&qid=1606379859&sr=1-1-5b72de9d-29e4-4d53-b588-61ea05f598f4&tag=technologytoday-21"))
